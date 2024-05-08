@@ -1,0 +1,12 @@
+{
+  "name": "@inetsys/js-yaml-cloudformation-schema",
+  "version": "1.0.0",
+  "description": "YAML schema including AWS Cloudformation specific short-hand syntaxes",
+  "main": "index.js",
+  "repository": "git@github.com:inetsys/js-yaml-cloudformation-schema.git",
+  "author": "Eduardo Vicente <eduardo.vicente@inetsys.es>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
